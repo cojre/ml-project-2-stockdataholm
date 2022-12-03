@@ -1,5 +1,4 @@
-sep=;
-station;time;temperature
+Station;Date;Temperature
 WSLLAF;202201010000;8.6
 WSLLAF;202201010010;8.7
 WSLLAF;202201010020;8.7

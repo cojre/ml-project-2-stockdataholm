@@ -1,5 +1,4 @@
-sep=;
-station;time;irradiance
+Station;Date;Irradiance
 WSLLAF;202201010000;0
 WSLLAF;202201010010;0
 WSLLAF;202201010020;0
