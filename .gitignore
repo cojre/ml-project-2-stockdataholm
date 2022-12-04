@@ -107,3 +107,6 @@ ENV/
 *.synctex.gz
 *.mat
 Time_Value_CM_02-May15-May-2022
+*.m
+PVGen/PV_generation_watt.csv
+PVGen/PV_date.csv
